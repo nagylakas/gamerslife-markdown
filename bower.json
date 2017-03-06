@@ -1,0 +1,9 @@
+{
+  "name": "gamerslife-markdown",
+  "description": "Markdown formatting for GamersLife Portal",
+  "main": "gamerslife-markdown.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "juicy-markdown": "^1.0.1"
+  }
+}
