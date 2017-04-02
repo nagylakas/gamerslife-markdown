@@ -4,6 +4,6 @@
   "main": "gamerslife-markdown.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
-    "gsl-juicy-markdown": "^1.0.1"
+    "juicy-markdown": "nagylakas/juicy-markdown#^1.0.1"
   }
 }
